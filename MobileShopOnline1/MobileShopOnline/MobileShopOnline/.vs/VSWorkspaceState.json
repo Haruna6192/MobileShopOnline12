@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Controllers",
+    "\\obj\\Debug",
+    "\\obj\\Release",
+    "\\obj\\Release\\edmxResourcesToEmbed",
+    "\\obj\\Release\\TempPE",
+    "\\Scripts\\owlcarousel",
+    "\\Views"
+  ],
+  "SelectedNode": "\\Controllers\\UsersController.cs",
+  "PreviewInSolutionExplorer": false
+}
